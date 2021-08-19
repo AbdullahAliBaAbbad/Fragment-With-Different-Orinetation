@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="name">
+        <item>Abdullah</item>
+        <item>Mohammed</item>
+        <item>Ali</item>
+        <item>Saeed</item>
+        <item>Ahmed</item>
+
+    </string-array>
+
+    <string-array name="descritption">
+        <item>Name: Abdullah and Age is 23</item>
+        <item>Name: Mohammed and Age is 23</item>
+        <item>Name: Ali and Age is 23</item>
+        <item>Name: Saeed and Age is 23</item>
+        <item>Name: Ahmed and Age is 23</item>
+
+
+    </string-array>
+</resources>
